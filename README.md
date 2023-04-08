@@ -1,8 +1,10 @@
 # Web-Humankind
 
-=>> this website is clone of https://www.humankind.art/
+==>> link to this web :- https://omp28.github.io/Web-Humankind/
 
-==>> clear working video - https://drive.google.com/file/d/1qA1xVpbDY-GKKkqKvFYC67chc1z_3EuI/view?usp=sharing
+=>> this website is clone of :- https://www.humankind.art/
 
-~ feel free to suggest any changes 
+==>> clear working video :- https://drive.google.com/file/d/1qA1xVpbDY-GKKkqKvFYC67chc1z_3EuI/view?usp=sharing
+
+
 
