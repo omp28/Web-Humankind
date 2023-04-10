@@ -1,4 +1,4 @@
-# Web-Humankind
+# Web-Humankind ==>> fully in Tailwindcss
 
 ==>> link to this web :- https://omp28.github.io/Web-Humankind/
 
